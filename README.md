@@ -1,6 +1,6 @@
-###<h1 align="center">👋 Hi Intellectuals there 👋</h1>
+<h3 align="center">👋 Hi Intellectual there 👋</h3>
 
-My Name is SHRIKANT NETKE
+<h1 align="center">My Name is SHRIKANT NETKE </h1>
 
 <!--
 **ShrikantNetke/ShrikantNetke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
