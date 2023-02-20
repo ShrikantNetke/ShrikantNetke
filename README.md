@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi Intellectuals there 👋
+
+My Name is SHRIKANT NETKE
 
 <!--
 **ShrikantNetke/ShrikantNetke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
