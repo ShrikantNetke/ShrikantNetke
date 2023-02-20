@@ -2,6 +2,17 @@
 
 <h1 align="center">:sparkles: My Name is SHRIKANT NETKE :sparkles: </h1>
 
+🙋‍♂️ About Me: 
+
+I am a Fresher who recently completed PG-DAC course and looking for Entry Level job Opportunity.
+
+- 🌱 I’m currently learning Full Stack Web Development Technologies.
+
+### Connect with me:
+
+<p align="center">
+
+
 <!--
 **ShrikantNetke/ShrikantNetke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
