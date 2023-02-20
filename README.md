@@ -1,4 +1,4 @@
-### Hi Intellectuals there 👋
+###<h1 align="center">👋 Hi Intellectuals there 👋</h1>
 
 My Name is SHRIKANT NETKE
 
