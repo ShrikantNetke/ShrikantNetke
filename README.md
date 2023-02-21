@@ -8,7 +8,6 @@ I am a Fresher who recently completed PG-DAC course and looking for Entry Level 
 
 - 🌱 I’m currently learning Full Stack Web Development Technologies.
 
-### Connect with me:
 
 <p align="center">
 
